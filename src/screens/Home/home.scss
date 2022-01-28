@@ -1,0 +1,45 @@
+@import '../../base.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.video{
+    
+    font-weight: 500;
+    font-size: 0.9rem;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+   
+        
+
+    
+
+    button{
+        margin-top: 10px;
+        padding: 5px 30px;
+        outline: none;
+        border-radius: 5px;
+        background-color: orange;
+        color: white;
+        font-weight: 900;
+
+
+    }
+    
+}
+.upload{
+    margin-top: 10px;
+    padding: 5px 30px;
+    outline: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-weight: 900;
+}
